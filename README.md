@@ -170,5 +170,5 @@ júnior.
 
 # 👨‍💻 Autor
 
-Lucas Deo\
+Lucas Deodato\
 https://github.com/Lucasdeo1
