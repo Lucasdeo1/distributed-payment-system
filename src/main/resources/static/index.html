@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Demonstração do serviço de pagamento</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <h1>Painel de Monitoramento do Sistema de Pagamento</h1>
+
+    <!--<h2>Criar pagamento</h2>
+    R$ <input type="number" id="amount" placeholder="Valor" />
+    <input type="text" id="description" placeholder="Descriçao" />
+    <button onclick="createPayment()">Criar</button>-->
+
+    <h2>Pagamentos Recebidos</h2>
+    <button onclick="loadPayments()">Atualizar</button>
+
+    <div id="paymentsList"></div>
+    
+    <script src="/js/payment.js"></script>
+    <div id="toastContainer"></div>
+</body>
+</html>
