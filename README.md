@@ -1,4 +1,4 @@
-# 💳 Sistema de Análise de Risco de Pagamento Distribuído
+# 💳 Sistema de Análise de Risco de Pagamento
 
 API backend que simula o processamento de transações financeiras com
 análise de risco antifraude.
