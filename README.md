@@ -153,9 +153,6 @@ Este projeto foi desenvolvido com o objetivo de:
 -   Escrever testes automatizados\
 -   Simular um cenário próximo ao mercado financeiro
 
-Projeto criado com foco em portfólio para vaga de desenvolvedor backend
-júnior.
-
 ------------------------------------------------------------------------
 
 # 📌 Melhorias Futuras
